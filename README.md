@@ -1,4 +1,4 @@
-# data_manipulation
+# data_manipulation series
 Hi there,
 Data_manipulation_1 consist of 
     * displaying data, basic funtions (sum, count,sort), changing datatype
