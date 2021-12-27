@@ -1,4 +1,4 @@
-# Data manipulation series
+# Data manipulation series Python
 ### Hi there,
 ### Data_manipulation_1 includes :
     * displaying data, basic funtions (sum, count,sort), changing datatype
