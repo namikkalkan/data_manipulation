@@ -9,4 +9,4 @@
     * String manipulations (normal and regex)
     * Chunk method to deal with large dataset
 ### Data_manipulation_3 (python vs SQL) includes :
-    * Queries which is written in Python and SQL
+    * Queries which are written in Python and SQL
